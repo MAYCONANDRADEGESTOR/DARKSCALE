@@ -1,3 +1,7 @@
-# DarkScale Landing Page V2
-Landing de pré-lançamento. Arquivos devem ficar na raiz do repositório GitHub.
-Na Vercel: Framework Preset = Other, sem Build Command.
+# DarkScale Landing V6
+Versão profissional com:
+- posicionamento para páginas Dark;
+- benefícios de operação e escala;
+- screenshots reais do DarkScale;
+- prova social fornecida;
+- painel de atividade ilustrativo, claramente identificado como demonstração (nomes fictícios não são apresentados como usuários reais).
